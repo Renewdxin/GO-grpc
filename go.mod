@@ -1,3 +1,3 @@
-module GO-grpc
+module github.com/Renewdxin/GO-grpc
 
-go 1.21
+go 1.21.1
